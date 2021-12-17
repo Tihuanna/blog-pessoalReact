@@ -1,4 +1,12 @@
 .titulo{
     font-weight: bold;
-    ;
+    background-color: black;
+}
+
+.cor{
+     background-color: black;
+}
+
+.texto{
+    color: white !important;
 }
