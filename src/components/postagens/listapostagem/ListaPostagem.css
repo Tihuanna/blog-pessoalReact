@@ -1,3 +1,7 @@
 .text-decorator-none{
     text-decoration: none;
 }
+.botao{
+    color: black;
+    background-color: #bb86fc!important;
+}

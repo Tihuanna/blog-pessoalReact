@@ -25,7 +25,7 @@ function TabPostagem() {
                     </Box>
                 </TabPanel>
                 <TabPanel value="2">
-                    <Typography variant="h5" gutterBottom color="textPrimary" component="h5" align="center" className="titulo">Sobre mim</Typography>
+                    <Typography variant="h5" gutterBottom color="textPrimary" component="h5" align="center" className="titulo">Sobre mim </Typography>
                     <Typography variant="body1" gutterBottom color="textPrimary" align="center" className="texto">Me chamo Kevin, tenho 21 anos e sou da ZL de SP, amo passar meu tempo jogando League e ficando com minha familia ❤</Typography>
                 </TabPanel>
             </TabContext>
